@@ -1,0 +1,14 @@
+body {
+	background-color: orange;
+}
+h1 {
+	color:blue;
+}
+h2 {
+	font-family: cursive;
+}
+img {
+	width: 300px;
+	position: absolute;
+	right: 300px
+}

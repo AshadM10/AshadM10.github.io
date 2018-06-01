@@ -28,7 +28,11 @@ if (name === "Naeem") {
 	console.log("Nope, your not Naeem");
 }
 
-$(document.body).append("Hellooooooooooo!");
+for (var i = 0; i < 5; i++) {
+	console.log(i);
+
+}
+
 });
 
 function checkPassword() {

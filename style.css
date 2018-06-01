@@ -2,7 +2,7 @@ body {
 	background-color: orange;
 }
 h1 {
-	color:blue;
+	color:blue !important;
 }
 h2 {
 	font-family: cursive;
